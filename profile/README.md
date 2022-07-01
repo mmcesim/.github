@@ -7,7 +7,8 @@
   <a href="https://github.com/mmcesim/mmcesim-gui">GUI App</a> •
   <a href="https://app.mmcesim.org">Web App</a> •
   <a href="https://github.com/mmcesim/mmcesim-examples">Examples</a> •
-  <a href="https://mmcesim.org">Website</a>
+  <a href="https://mmcesim.org">Website</a> •
+  <a href="https://blog.mmcesim.org">Blog</a>
 </p>
 
 ***
